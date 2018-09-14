@@ -1,0 +1,72 @@
+body {
+  background-image: url("images/depositphotos_81460636-stock-illustration-multimedia-cinema-hand-drawn-seamless.jpg"); 
+  background-size: 200px;
+  background-repeat: repeat-x;
+  margin: 0;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn{
+  margin-top: 35px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif; 
+  text-align: center;
+  background-color: white;
+  border: 0;
+  margin: 0;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  font-size: 3.5em;
+  height: auto;
+}
+
+form {
+  text-align: center;
+}
+
+input.submission_field {
+  font-size: 20px;
+  width: 76vmin;
+  height: 5vh;
+  box-shadow: 10px 10px grey;
+}
+
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 30px
+}
+
+.results p {
+  font-family: 'Open Sans', sans-serif; 
+  text-align: center;
+}
+
+.results img {
+  width: 100%;
+  height: auto;
+
+}
+
+.search-btn{
+  font-family: 'Montserrat', sans-serif;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: #B2B3B2;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
